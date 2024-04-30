@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/28BOgWGg)
 # Exercise 2 - Lists and indices (10 points)
 
 The exercise for this week is meant to help you better understand lists in Python, and practice saving changes to your files using Git and GitHub. You will also get to practice the Markdown syntax. 
@@ -32,3 +33,15 @@ Remember also to answer all written questions in the exercise in addition to the
  - [Problem 1 - Making changes to code and using Git (3 points)](Exercise-2.ipynb)
  - [Problem 2 - Monthly average temperatures (5 points)](Exercise-2.ipynb)
  - [Problem 3 - Markdown practice (2 points)](Exercise-2.ipynb)
+ 
+ Hello Hello, who is there is it the beaver fever? 
+
+## Exercise 2 grade and feedback: 9.5 / 10.0 points
+### Grader
+- CasiN335
+### Problem scores
+- Problem 1: 2.5 / 3.0 
+- Problem 2: 5.0 / 5.0 
+- Problem 3: 2.0 / 2.0 
+### Comments
+- Comments will be added here.
