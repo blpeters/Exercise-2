@@ -34,14 +34,4 @@ Remember also to answer all written questions in the exercise in addition to the
  - [Problem 2 - Monthly average temperatures (5 points)](Exercise-2.ipynb)
  - [Problem 3 - Markdown practice (2 points)](Exercise-2.ipynb)
  
- Hello Hello, who is there is it the beaver fever? 
-
-## Exercise 2 grade and feedback: 9.5 / 10.0 points
-### Grader
-- CasiN335
-### Problem scores
-- Problem 1: 2.5 / 3.0 
-- Problem 2: 5.0 / 5.0 
-- Problem 3: 2.0 / 2.0 
-### Comments
-- Comments will be added here.
+ 
